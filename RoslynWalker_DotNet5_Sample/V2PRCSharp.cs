@@ -27,8 +27,7 @@ namespace RoslynWalker_DotNet5_Sample
 			}
 
 			using (var tripleDES = new TripleDESCryptoServiceProvider()) //Noncompliant
-			{
-				
+			{				
 			}
 			while (true)
 			{
