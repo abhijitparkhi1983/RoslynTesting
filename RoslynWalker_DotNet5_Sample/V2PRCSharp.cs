@@ -34,6 +34,7 @@ namespace RoslynWalker_DotNet5_Sample
 				//Test PR 4
 				//test PR 5
 				//test PR 6
+				//test PR 7
 			}
 			while (true)
 			{
